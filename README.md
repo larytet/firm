@@ -15,4 +15,4 @@ NGREP - only Ehernet packets, very flexiblle pattern matching
 
 Cisco has FPM - works only for IP traffic, but can be modified I imagine if they need it.
 
-F5 Big-IP has a sniffer mode with regex pattern matching. Hard to configure and I am not sure how flexible it is. I have never worked with F5 equipment.
+F5 Big-IP has a sniffer mode with regex (?) pattern matching. Hard to configure and I am not sure how flexible it is. I have never worked with F5 equipment.
