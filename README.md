@@ -9,7 +9,7 @@
 
 # Bottom line
 
-On Linux : https://www.snort.org/ - regex, raw data, reconstruct the packets from fragments if needed.
+On Linux : https://www.snort.org/ - regex, raw data, reconstruct the packets from fragments if needed (TCP fragments).
 
 NGREP - only Ehernet packets, very flexiblle pattern matching
 
