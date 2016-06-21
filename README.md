@@ -13,6 +13,8 @@ On Linux : https://www.snort.org/ - regex, raw data, reconstruct the packets fro
 
 NGREP - only Ehernet packets, very flexiblle pattern matching
 
+netsniff-ng includes Berkeley Packet Filter and Linux comes with BPF JIT compiler
+
 Cisco has FPM - works only for IP traffic, but can be modified I imagine if they need it.
 
 F5 Big-IP has a sniffer mode with regex (?) pattern matching. Hard to configure and I am not sure how flexible it is. I have never worked with F5 equipment.
