@@ -29,3 +29,4 @@ Linux ebtables can be extended by custom code - kernel driver.
 * http://www.cs.ucr.edu/~najjar/papers/2007/ancs2007.pdf Compiling PCRE to FPGA for Accelerating SNORT IDS
 * https://www.researchgate.net/publication/228810333_Efficient_FPGA_based_regular_expression_pattern_matching
 * http://www.apsipa.org/proceedings_2011/pdf/apsipa268.pdf
+* http://www.xilinx.com/programmable/about/research-labs/ANCS_final.pdf 400 Gb/s Programmable Packet Parsing on a Single FPGA 
