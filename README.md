@@ -20,3 +20,9 @@ Cisco has FPM - works only for IP traffic, but can be modified I imagine if they
 F5 Big-IP has a sniffer mode with regex (?) pattern matching. Hard to configure and I am not sure how flexible it is. I have never worked with F5 equipment.
 
 Linux ebtables can be extended by custom code - kernel driver. 
+
+
+RegEx in FPGA
+* http://halcyon.usc.edu/~pk/prasannawebsite/papers/sidhuFCCM01.pdf Fast Regular Expression Matching using FPGAs
+* http://ac.els-cdn.com/S1877050914005134/1-s2.0-S1877050914005134-main.pdf?_tid=0f3cc23a-3892-11e6-97e3-00000aab0f02&acdnat=1466611245_985289a5f71b40d66b9e5e1d38e20b05#view=fit A Real-time Updatable FPGA-based Architecture for Fast Regular Expression Matching
+* 
