@@ -1,0 +1,24 @@
+The market is protecting sensitive systems attached to the Internet/Intranet.
+
+Examples of such systems:
+* Equipment on the military plants
+* Sensitive WEB servers
+* Infrastructure installations (water meters, etc)
+* Any embedded device with LAN connectivity
+
+The product targets non-IP devices - mainly legacy devices which employ proprietary protocols.
+
+Talk to Dima/Vadim Krishtal about details. Tell them "Regular Expressions - Packet matching" and they will be able to fill in the
+missing parts.
+
+Appears, that there is no high performance equipment which works with non-IP (non-IP is a crucial part) packets. It appears also that a
+large military equipment company really wants to get a solution (to the tune of 2mil USD order). I do not know what the company is, but I
+suspect that this is one of the largest - Rafael or similar. It appears also that the existing limited software based solutions
+(snort, ngrep, etc.) lack:
+*  Performance
+*  Flexibility
+*  A convenient UX/UI to configure advanced filtering rules, like in "draw your packet using your mouse" and we will do the rest.
+
+No one of the major players - Cisco, Juniper, F5 can do the trick. I did not check Huawei.
+
+There is a company which can provide the whole stack from the core logic to the WEB interface. Or, alternatively, a 2-3 capable guys could do it in 0.5 year time frame. I think that I could make beta version of the software - a full stack from FPGA to a nice WEB front end - in half an year. A production grade version in one year
