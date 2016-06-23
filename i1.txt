@@ -5,6 +5,7 @@ Examples of such systems:
 * Sensitive WEB servers
 * Infrastructure installations (water meters, etc)
 * Any embedded device with LAN connectivity
+* CT, MRI, US, PET equipment in hospitals
 
 The product targets non-IP devices - mainly legacy devices which employ proprietary protocols.
 
