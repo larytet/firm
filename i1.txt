@@ -9,7 +9,7 @@ Examples of such systems:
 
 The product targets non-IP devices - mainly legacy devices which employ proprietary protocols. 
 The product can target 10Gb/s line rate. The existing hardware is a fanless palm size board 
-with passive heat sink and two 10GB/s interfaces.
+with passive heat sink and two 10GB/s interfaces https://github.com/larytet/firm/blob/master/hardware.jpeg
 
 Appears, that there is no high performance equipment which works with non-IP (non-IP is a 
 crucial part) packets. It appears also that a large military equipment company really wants 
