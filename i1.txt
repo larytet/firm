@@ -7,7 +7,10 @@ Examples of such systems:
 * Any embedded device with LAN connectivity
 * CT, MRI, US, PET equipment in hospitals
 
-The product targets non-IP devices - mainly legacy devices which employ proprietary protocols.
+The product targets non-IP devices - mainly legacy devices which employ proprietary protocols. 
+The product can target 10Gb/s line rate. The existing hardware is a fanless palm size board 
+with passive heat sink and two 10GB/s interfaces.
+
 
 Talk to Dima/Vadim Krishtal about details. Tell them "Regular Expressions - Packet matching" 
 and they will be able to fill in the
