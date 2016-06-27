@@ -11,11 +11,6 @@ The product targets non-IP devices - mainly legacy devices which employ propriet
 The product can target 10Gb/s line rate. The existing hardware is a fanless palm size board 
 with passive heat sink and two 10GB/s interfaces.
 
-
-Talk to Dima/Vadim Krishtal about details. Tell them "Regular Expressions - Packet matching" 
-and they will be able to fill in the
-missing parts.
-
 Appears, that there is no high performance equipment which works with non-IP (non-IP is a 
 crucial part) packets. It appears also that a large military equipment company really wants 
 to get a solution (to the tune of 2mil USD order). I do not know what the company is, but I
