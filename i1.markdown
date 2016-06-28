@@ -11,6 +11,13 @@ The product targets non-IP devices - mainly legacy devices which employ propriet
 The product can target 10Gb/s line rate. The existing hardware is a fanless palm size board 
 with passive heat sink and two 10GB/s interfaces https://github.com/larytet/firm/blob/master/hardware.jpeg
 
+Among the features that can be supported at line rate:
+
+* VLAN tag/untag based on regular expression match.
+* Modification of the packet header - MAC source/destination address. Example - multiple devices with the same MAC source addrress. 
+* Add/remove an IP header to the packets matching specific RegExp.
+* Drop packets base on the RegExp match.
+
 Appears, that there is no high performance equipment which works with non-IP (non-IP is a 
 crucial part) packets. It appears also that a large military equipment company really wants 
 to get a solution (to the tune of 2mil USD order). I do not know what the company is, but I
