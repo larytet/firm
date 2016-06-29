@@ -11,7 +11,7 @@ The product targets non-IP devices - mainly legacy devices which employ propriet
 The product can target 10Gb/s line rate. The existing hardware is a fanless palm size board 
 with passive heat sink and two 10GB/s interfaces https://github.com/larytet/firm/blob/master/hardware.jpeg
 
-Among the features that can be supported at line rate:
+Among the features that can be supported at the line rate:
 
 * Drop packets base on the RegExp match and protect sensitive systems against malformed packets. 
 * VLAN tag/untag based on RegExp match. Simplifies management multiple devices.
