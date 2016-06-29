@@ -16,7 +16,7 @@ Among the features that can be supported at the line rate:
 * Drop packets base on the RegExp match and protect sensitive systems against malformed packets. 
 * VLAN tag/untag based on RegExp match. Simplifies management multiple devices.
 * Modification of the packet header - MAC source/destination address. Example - multiple devices with the same MAC source addrress. 
-* Add/remove an IP header in the packets matching specific RegExp. Converts non-IP packets created by legacy devices to IP packets which can be routed by existing IP infrastructure.
+* Add/remove an IP header in the packets matching specific RegExp. Converts non-IP packets created by legacy devices to IP packets which can be routed by the existing IP infrastructure.
 
 Appears, that there is no high performance equipment which works with non-IP (non-IP is a 
 crucial part) packets. It appears also that a large military equipment company really wants 
