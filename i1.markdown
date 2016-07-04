@@ -21,7 +21,7 @@ Among the features that can be supported at the line rate:
 Appears, that there is no high performance equipment which works with non-IP (non-IP is a 
 crucial part) packets. It appears also that a large military equipment company really wants 
 to get a solution (to the tune of 2mil USD order). I do not know what the company is, but I
-suspect that this is one of the largest - Rafael or similar. It appears also that the 
+suspect that this is one of the largest local providers. It appears also that the 
 existing limited software based solutions (snort, ngrep, etc.) lack:
 *  Performance
 *  Flexibility
