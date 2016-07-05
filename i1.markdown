@@ -1,11 +1,13 @@
 The market is protecting sensitive systems attached to the Internet/Intranet.
 
 Examples of such systems:
-* Equipment on the military plants
+* Equipment on the military plants - sensors, automatic control equipment 
 * Sensitive WEB servers
 * Infrastructure installations (water meters, etc)
 * Any embedded device with LAN connectivity
 * CT, MRI, US, PET equipment in hospitals
+* Safes in the banks
+* Telemetry and control of drones
 
 The product targets non-IP devices - mainly legacy devices which employ proprietary protocols. 
 The product can target 10Gb/s line rate. The existing hardware is a fanless palm size board 
@@ -19,7 +21,8 @@ Among the features that can be supported at the line rate:
 * Add/remove an IP header in the packets matching specific RegExp. Converts non-IP packets created by legacy devices to IP packets which can be routed by the existing IP infrastructure.
 
 Appears, that there is no high performance equipment which works with non-IP (non-IP is a 
-crucial part) packets. It appears also that a large military equipment company really wants 
+crucial part) Ethernet packets and specifically with proprietary non-documented protocols. 
+It appears also that a large military equipment company really wants 
 to get a solution (to the tune of 2mil USD order). I do not know what the company is, but I
 suspect that this is one of the largest local providers. It appears also that the 
 existing limited software based solutions (snort, ngrep, etc.) lack:
