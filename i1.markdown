@@ -1,4 +1,5 @@
-The market is protecting sensitive systems attached to the Internet/Intranet.
+The market is protecting sensitive systems attached to the Internet/Intranet 
+also Network Intrusion Detection and Prevention.
 
 Examples of such systems:
 * Equipment on the military plants - sensors, automatic control equipment 
