@@ -31,7 +31,7 @@ suspect that this is one of the largest local providers. It appears also that th
 existing limited software based solutions (snort, ngrep, etc.) lack:
 *  Performance
 *  Flexibility
-*  A convenient UX/UI to configure advanced filtering rules, like in 
+*  A convenient UX/UI (lot of JS) to configure advanced filtering rules, like in 
 "draw your packet using your mouse" and we will do the rest.
 
 No one of the major players - Cisco, Juniper, F5 can do the trick. I did not check Huawei.
