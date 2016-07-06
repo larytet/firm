@@ -1,5 +1,7 @@
-The market is protecting sensitive systems attached to the Internet/Intranet 
-also Network Intrusion Detection and Prevention.
+Network Intrusion Detection and Prevention for non-IP networks.
+
+
+The market is protecting sensitive IP and non-IP systems attached to the Internet/Intranet.
 
 Examples of such systems:
 * Equipment on the military plants - sensors, automatic control equipment 
