@@ -14,7 +14,7 @@ Examples of such systems:
 * End-to-end encryption of Layer 2 VPN traffic between corporate sites/campuses  
 
 The product targets non-IP devices - mainly legacy devices which employ proprietary protocols. The product can target 10Gb/s line rate. The existing hardware is a fanless palm size board with passive heat sink and two 10GB/s interfaces https://github.com/larytet/firm/blob/master/hardware.jpeg   
-The mother board carries a high end Xilinx FPGA with DDR, 500Mhz ARM, SmartCard reader, bootable SD card, bootable FLASH.
+The mother board carries a high end Xilinx FPGA with DDR, 500Mhz ARM, SmartCard reader (can store keys, for example), bootable SD card, bootable serial FLASH.
 
 Among the features that can be supported at the line rate:
 
