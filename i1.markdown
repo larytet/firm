@@ -11,6 +11,7 @@ Examples of such systems:
 * CT, MRI, US, PET equipment in hospitals
 * Safes in the banks
 * Telemetry and control of drones
+* End-to-end encryption of Layer 2 VPN traffic between corporate sites/campuses  
 
 The product targets non-IP devices - mainly legacy devices which employ proprietary protocols. 
 The product can target 10Gb/s line rate. The existing hardware is a fanless palm size board 
