@@ -11,7 +11,8 @@ Examples of such systems:
 * CT, MRI, US, PET equipment in hospitals
 * Safes in the banks
 * Telemetry and control of drones
-* End-to-end encryption of Layer 2 VPN traffic between corporate sites/campuses  
+* End-to-end encryption of Layer 2 VPN traffic between corporate sites/campuses 
+* Line rate classification and parsing of protocols like FIX
 
 The product targets non-IP devices - mainly legacy devices which employ proprietary protocols. The product can target 10Gb/s line rate. The existing hardware is a fanless palm size board with passive heat sink and two 10GB/s interfaces https://github.com/larytet/firm/blob/master/hardware.jpeg   
 The mother board carries a high end Xilinx FPGA with attached DDR, 500Mhz ARM, SmartCard reader (can store keys, for example), bootable SD card, bootable serial FLASH.
